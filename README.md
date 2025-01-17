@@ -1,13 +1,13 @@
 # Discord Voice Summarizer
 
-A Discord bot that joins voice channels, records conversations, and provides summaries using OpenAI Whisper and GPT.
+A Discord bot that joins voice channels, records conversations, and provides summaries using OpenAI Whisper and gpt-4o.
 
 ## Features
 
 - Join/leave voice channels via commands
 - Record voice conversations
 - Transcribe audio using OpenAI's Whisper
-- Generate conversation summaries using GPT-4
+- Generate conversation summaries using gpt-4o
 
 ## Prerequisites
 
