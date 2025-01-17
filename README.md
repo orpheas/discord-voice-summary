@@ -1,4 +1,4 @@
-# Discord Voice Bot
+# Discord Voice Summarizer
 
 A Discord bot that joins voice channels, records conversations, and provides summaries using OpenAI Whisper and GPT.
 
