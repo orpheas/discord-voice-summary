@@ -37,8 +37,9 @@ pnpm build
 ```
 pnpm start
 ```
-Usage
+## Usage
 The bot responds to the following commands:
 
 !join - Bot joins your current voice channel and starts recording
+
 !leave - Bot leaves the voice channel and provides a summary of the conversation
